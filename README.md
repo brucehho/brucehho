@@ -1,3 +1,3 @@
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucehho&theme=radical)
+![Leetcode Stats](https://leetcard.jacoblin.cool/good20211016)
