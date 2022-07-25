@@ -1,2 +1,2 @@
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hongbin?theme=light&font=Forum)  
+[![Leetcode Stats](https://leetcode.com/good20211016/Hongbin?theme=wtf&font=Forum&ext=activity)](https://leetcode.com/good20211016/)
