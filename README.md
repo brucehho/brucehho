@@ -9,4 +9,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brucehho&show_icons=true&theme=onedark&locale=en&layout=compact" alt="brucehho" /></p>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hongbinhe-leetcode?theme=wtf&font=Noto%20Serif%20Hebrew)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hongbinhe-leetcode?theme=nord&font=Noto%20Serif%20Hebrew)
