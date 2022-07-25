@@ -1,3 +1,3 @@
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=brucehho&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brucehho&theme=radical)
