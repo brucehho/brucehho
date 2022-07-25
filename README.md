@@ -1,2 +1,3 @@
   
-![Leetcode Stats](https://leetcode.com/good20211016)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=brucehho&theme=radical)
